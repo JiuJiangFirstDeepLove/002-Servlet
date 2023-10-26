@@ -4,7 +4,7 @@
 
 ### 技术栈
 
-Springboot mybatisplus vue
+Servlet jdbc jsp
 
 ## 数据库
 
